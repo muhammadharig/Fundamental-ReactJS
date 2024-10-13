@@ -1,6 +1,6 @@
 This repository learning React-Js from zero.
 
-if you want cloning this repository you can use :
+How to run this repository after cloning, you can follow that :
 1. npm install
 2. npm run dev
 
