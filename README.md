@@ -1,8 +1,7 @@
-# React + Vite
+This repository learning React-Js from zero.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+if you want cloning this repository you can use :
+1. npm install
+2. npm run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+note: before you install react using vite or npx you must install node.js in your computer.
